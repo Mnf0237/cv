@@ -79,7 +79,7 @@ function App() {
               <div>
                 <div className="flex justify-between items-start mb-2">
                   <div>
-                    <h4 className="font-bold text-gray-900">Telecommunications Engineer</h4>
+                    <h4 className="font-bold text-gray-900">Master's Degree</h4>
                     <p className="text-gray-700">National Advanced School of Polytechnic, Douala</p>
                     <p className="text-sm text-gray-600">Specialization in Networks & Telecommunications</p>
                   </div>
@@ -89,7 +89,7 @@ function App() {
               <div>
                 <div className="flex justify-between items-start mb-2">
                   <div>
-                    <h4 className="font-bold text-gray-900">Telecommunication Assistant Engineer</h4>
+                    <h4 className="font-bold text-gray-900">DUT</h4>
                     <p className="text-gray-700">University Institute of Technology, Douala</p>
                     <p className="text-sm text-gray-600">Specialization in Networks & Telecommunications</p>
                   </div>
@@ -166,7 +166,7 @@ function App() {
                 <ul className="list-disc list-inside space-y-1 text-gray-700 text-sm">
                   <li>Protocols: TCP/IP, OSI Model, OSPF, MPLS, ARP, BGP</li>
                   <li>Mobile Networks: 2G/3G/4G</li>
-                  <li>Monitoring & Analytics: Smartcare, QoS/QoE analysis, KPI tracking</li>
+                  <li>Monitoring & Analytics</li>
                   <li>Performance analysis (KPI, QoS)</li>
                   <li>Network supervision and monitoring</li>
                   <li>Incident management and ticketing</li>
@@ -175,7 +175,7 @@ function App() {
                   <li>Troubleshooting: Incident analysis, alarm handling, RCA</li>
                   <li>SQL: Database querying for high demarcation and incident investigation</li>
                   <li>Tools: Network diagnostic tools, SOC dashboards</li>
-                  <li>ITIL & Event Management</li>
+                  <li>Event Management</li>
                 </ul>
               </div>
               <div>
