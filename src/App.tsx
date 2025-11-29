@@ -145,7 +145,7 @@ function App() {
                     <h4 className="font-bold text-gray-900">Network Security Administrator – Intern</h4>
                     <p className="text-gray-700 font-semibold">Infinity Tech SARL - Douala</p>
                   </div>
-                  <span className="text-sm font-semibold text-blue-600 whitespace-nowrap ml-4">02/2024 to 07/2024</span>
+                  <span className="text-sm font-semibold text-blue-600 whitespace-nowrap ml-4">02/2024 to 05/2024</span>
                 </div>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 ml-4">
                   <li>Installed and configured network devices (routers, switches, firewalls)</li>
