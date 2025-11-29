@@ -170,12 +170,11 @@ function App() {
                   <li>Performance analysis (KPI, QoS)</li>
                   <li>Network supervision and monitoring</li>
                   <li>Incident management and ticketing</li>
-                  <li>Event management and escalation</li>
+                  <li>Event management</li>
                   <li>First-level diagnostics and deep demarcation</li>
                   <li>Troubleshooting: Incident analysis, alarm handling, RCA</li>
                   <li>SQL: Database querying for high demarcation and incident investigation</li>
                   <li>Tools: Network diagnostic tools, SOC dashboards</li>
-                  <li>Event Management</li>
                 </ul>
               </div>
               <div>
